@@ -1,0 +1,792 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"users"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"htm",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"di",
+				"div	<div>"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fi",
+				"font-weight"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"F",
+				"float"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ff",
+				"ff0000"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"loc",
+				"LOCALHOST_URL"
+			],
+			[
+				"vhos",
+				"VHOST"
+			],
+			[
+				"da",
+				"DATABASE"
+			],
+			[
+				"PROJEC",
+				"project_name"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"pre",
+				"preventDefault"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"artisan",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"ar",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"arisan ",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"arisan rou",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"artis",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"genera",
+				"Laravel Generate: Model"
+			],
+			[
+				"gene",
+				"Laravel Generate: Model"
+			],
+			[
+				"generate",
+				"Laravel Generate: Migration"
+			],
+			[
+				"arisan",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"art",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Laravel Artisan: Controller: Make"
+			],
+			[
+				"generatemode",
+				"Laravel Generate: Model"
+			],
+			[
+				"genet",
+				"Laravel Generate: Model"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"lara",
+				"Laravel Generate: Model"
+			],
+			[
+				"laravel ge",
+				"Laravel Generate: Migration"
+			],
+			[
+				"laravel generate",
+				"Laravel Generate: Migration"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/views/users/create.blade.php",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/views/users/index.blade.php",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/views/users/edit.blade.php",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/puphpet/config.yaml",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/views/layout.blade.php",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/models/User.php",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/config/auth.php",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/database/seeds/DatabaseSeeder.php",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/config/database.php",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/database/migrations/2014_05_23_142343_CreateUserTable.php",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/database/seeds/UserSeeder.php",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/views/layouts/users.blade.php",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/views/hello.php",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/views/about.php",
+		"/C/Users/milos/Documents/GitHub/laravel-tut/myproject/app/controllers/PagesController.php",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/app/config/app.php",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/vendor/way/generators/src/Way/Generators/GeneratorsServiceProvider.php",
+		"/C/Users/milos/AppData/Roaming/Sublime Text 3/Packages/User/Laravel 4 Artisan.sublime-settings",
+		"/C/Users/milos/AppData/Roaming/Sublime Text 3/Packages/Laravel 4 Artisan/Laravel 4 Artisan.sublime-settings",
+		"/C/Users/milos/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/milos/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/Vagrantfile",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/composer.json",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/vendor/predis/predis/package.ini",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/vendor/symfony/finder/Symfony/Component/Finder/Adapter/PhpAdapter.php",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/phpunit.xml",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/artisan",
+		"/C/Users/milos/AppData/Roaming/Sublime Text 3/Packages/User/laravelgenerator.sublime-settings",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/app/controllers/BaseController.php",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/app/controllers/HomeController.php",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/app/_ide_helpers.php",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/app/controllers/CustomerController.php",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/app/models/Transaction.php",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/app/models/Customer.php",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/app/database/migrations/2014_03_11_034100_create_users_table.php",
+		"/C/Users/milos/Documents/GitHub/Laravel4-Vagrant/www/app/views/hello.php",
+		"/C/Users/milos/Documents/GitHub/darcom/public_html/css/_contact.scss",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/controllers/cabinets.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/controllers/kitchen.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/controllers/furniture.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/views/pages/home.php",
+		"/C/Users/milos/Documents/GitHub/darcom/public_html/css/_config.scss",
+		"/C/Users/milos/Documents/GitHub/darcom/public_html/css/_header.scss",
+		"/C/Users/milos/Documents/GitHub/darcom/public_html/css/_home.scss",
+		"/C/Users/milos/Documents/GitHub/darcom/public_html/css/_gallery.scss",
+		"/C/Users/milos/Documents/GitHub/darcom/public_html/js/init/build.bat",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/views/pages/contact.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/views/pages/galleries.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/views/pages/gallery.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/controllers/homepage.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/core/BP_Controller.php",
+		"/C/Users/milos/Documents/GitHub/darcom/public_html/css/_footer.scss",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/views/template/main.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/config/hooks.php",
+		"/C/Users/milos/Documents/GitHub/darcom/public_html/humans.txt",
+		"/C/Users/milos/Documents/GitHub/darcom/public_html/js/init/src/54_galleria_init.js",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/views/template/nav.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/views/admin_template/main.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/views/admin/main.php",
+		"/C/Users/milos/Documents/GitHub/darcom/public_html/css/main.css",
+		"/C/Users/milos/Documents/GitHub/darcom/phpmyadmin/js/makegrid.js",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/config/migration.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/config/routes.php",
+		"/C/Users/milos/Documents/GitHub/darcom/public_html/css/style.scss",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/models/gallery.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/controllers/galleries.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/models/gallery_list.php",
+		"/C/Users/milos/Documents/GitHub/darcom/phpmyadmin/libraries/rte/rte_footer.lib.php",
+		"/C/Users/milos/Documents/GitHub/darcom/phpmyadmin/libraries/Footer.class.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/config/foreign_chars.php",
+		"/C/Users/milos/Documents/GitHub/darcom/public_html/css/style.css",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/views/pages/bathroom-pricelist.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/controllers/admin_log.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/config/development/database.php",
+		"/C/Users/milos/Documents/GitHub/darcom/public_html/index.php",
+		"/C/Users/milos/Documents/GitHub/darcom/phpmyadmin/setup/config.php",
+		"/C/Users/milos/Documents/GitHub/darcom/phpmyadmin/config.inc.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/logs/log-2014-03-13.php",
+		"/C/Users/milos/Documents/GitHub/darcom/puphpet/config.yaml",
+		"/C/Users/milos/Documents/GitHub/darcom/phpmyadmin/libraries/config.default.php",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom/index.html",
+		"/C/Users/milos/Documents/GitHub/darcom/darcom_app/config/testing/database.php",
+		"/D/wamp/www/kp/quable/index.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/wamp/bin/apache/apache2.2.22/conf/httpd.conf",
+		"/D/wamp/bin/apache/apache2.2.22/conf/extra/httpd-vhosts.conf",
+		"/C/Users/milos/Documents/GitHub/darcom/puphpet/puppet/hiera.yaml",
+		"/D/wamp/www/kp/moj-kp/moj-kp.css",
+		"/D/wamp/bin/php/php5.3.13/php.ini",
+		"/D/wamp/www/kp/vumetar/3/druga-verzija.html",
+		"/D/wamp/www/kp/moj-kp/kp-baner/index.html",
+		"/D/wamp/www/kp/moj-kp/oglasi/index.html",
+		"/D/wamp/www/kp/fb-ad-4/css/fb-ad.css",
+		"/D/wamp/www/kp/oglas/index.php",
+		"/D/wamp/www/kp/adresar/index.html",
+		"/D/wamp/www/kp/adresar/css/adresar.css",
+		"/D/wamp/www/kp/fb-ad-4/index.html",
+		"/D/wamp/www/kp/adresar/2/css/adresar.css",
+		"/D/wamp/www/kp/adresar/css/style.css",
+		"/D/wamp/www/kp/avatar/index.html",
+		"/D/wamp/www/kp/baner-reklama/index.html",
+		"/D/wamp/www/kp/adresar/2/index.html",
+		"/D/wamp/www/kp/moj-kp/prepaid/index.html",
+		"/D/wamp/www/kp/moj-kp/pratim/index.html",
+		"/D/wamp/www/kp/moj-kp/poruke-i-ponude/index.html",
+		"/D/wamp/www/kp/moj-kp/ocene/index.html",
+		"/D/wamp/www/kp/moj-kp/moj-nalog/index.html",
+		"/D/wamp/www/kp/moj-kp/kp-izlog/index.html",
+		"/D/wamp/www/kp/no-photo/CD-plejeri-1-486-1-grupa.htm",
+		"/D/wamp/www/kp/usluge-promocije/slicice.html",
+		"/D/wamp/www/kp/usluge-promocije/2/2kol/dopuna-prepaida.html",
+		"/D/wamp/www/kp/moj-kp/2/oglasi/index.html",
+		"/D/wamp/www/kp/moj-kp/2/moj-kp.css",
+		"/D/wamp/www/kp/pocetna/css/pocetna.css",
+		"/D/wamp/www/kp/fb-ad-3/css/fb-ad.css",
+		"/D/wamp/www/kp/pc-press/1/index.php",
+		"/D/wamp/www/kp/pocetna/index.php",
+		"/D/wamp/www/kp/moj-kp/2/poruke-i-ponude/index.html",
+		"/D/wamp/www/kp/moj-kp/2/oglasi/oglas.html",
+		"/D/wamp/www/kp/moj-kp/2/pratim/index.html",
+		"/D/wamp/www/kp/usluge-promocije/2/2kol/usluge-promocije.html",
+		"/D/wamp/www/kp/bozicna-presvlaka/index.html",
+		"/D/wamp/www/kp/fb-ad-3/index.html",
+		"/D/wamp/www/kp/vumetar/3/treca-verzija.html",
+		"/D/wamp/www/kp/pc-press/2/index.php",
+		"/D/Work/Agrohemija SEED/zwebstud_agroseed.sql",
+		"/D/wamp/www/kp/oglas/bezbedna-trgovina/druga-verzija.htm",
+		"/D/wamp/www/kp/novogodisnja-presvlaka/fb-cover/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"bind-ad",
+			"User",
+			"milmarkkuhinje",
+			"form-error",
+			"plakari",
+			"Plakari",
+			"cabinets",
+			"kuhinje",
+			"kitchen",
+			"hasSubMenu",
+			"furniture",
+			"cabinets",
+			"kitchen",
+			"260",
+			"180",
+			"home-option",
+			"description",
+			"descriptions",
+			"$this",
+			"tv-komode",
+			"po",
+			"new",
+			"ass=\"",
+			"<span class=\"new-category\">NOVO</span>",
+			"home",
+			"setenv",
+			"exten",
+			"vu-",
+			"vu-m",
+			"baner-reklama",
+			"leftna",
+			"homepage",
+			"counter",
+			"vume",
+			"div.search-ad-preview",
+			"div.search-ad-preview.selected",
+			"time",
+			"eeeeee",
+			"ow_b",
+			"iv>\n				</div>",
+			"img src",
+			"<div>",
+			"<time datetim",
+			"55px",
+			"font-size",
+			"<time",
+			"ccc",
+			"left",
+			"first",
+			"preview",
+			"blue-button",
+			"blue",
+			"blue-button",
+			"no-photo-50x50.png",
+			"read",
+			"h1>Im",
+			"04",
+			"02",
+			"time",
+			"read",
+			"h1",
+			"\"img/",
+			"img",
+			"search",
+			"simple",
+			"no-photo",
+			"0.2",
+			"cursor",
+			"postavi",
+			"psotavi",
+			"blue-button",
+			"oglasa",
+			"\n\n\n\n",
+			"\n\n\n",
+			"117px",
+			"class",
+			".",
+			"class",
+			"postavi",
+			"submit",
+			"margin-top: 20px",
+			"110px",
+			"6px",
+			"obri",
+			"blue-bu",
+			"gray-bu",
+			"actionSec",
+			"blue-button",
+			"https://www.kupujemprodajem.com/photos/oglasi/7/33/1385337/tmb-100x100-1385337_IMG_1039.JPG",
+			"onmouseover=\"$('serviceRenewInfo1385337').style.display='';\" onmouseout=\"$('serviceRenewInfo1385337').hide();\" ",
+			" onmouseover=\"$('serviceRenewInfo1385337').style.display='';\" onmouseout=\"$('serviceRenewInfo1385337').hide();\"",
+			"5px",
+			"95px",
+			"100px",
+			"edit",
+			"action",
+			"blue-butt",
+			"blue",
+			"vume",
+			"vu-me",
+			"vume",
+			"vu-me",
+			"logo",
+			"etar-ogla",
+			"ju",
+			"umetar-ogla",
+			"oglasa",
+			"get-t",
+			"metar-oglas",
+			"vumetar-oglasi",
+			"counters",
+			"ounters-table",
+			"metar-oglas",
+			"vumetar-oglasi",
+			"small",
+			"22",
+			"27",
+			"vume",
+			"1500",
+			"2000",
+			"34",
+			"25",
+			"custom",
+			"vume",
+			"counter",
+			"}     ",
+			"broj"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Kontakt"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 470.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "laravel-tutorial.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"home",
+				"darcom_app\\views\\pages\\home.php"
+			],
+			[
+				"_footer",
+				"public_html\\css\\_footer.scss"
+			],
+			[
+				"main",
+				"darcom_app\\views\\template\\main.php"
+			],
+			[
+				"galleries",
+				"darcom_app\\views\\pages\\galleries.php"
+			],
+			[
+				"gallerie",
+				"darcom_app\\controllers\\galleries.php"
+			],
+			[
+				"vume",
+				"vumetar/3/druga-verzija.html"
+			],
+			[
+				"vumetar",
+				"vumetar/3/druga-verzija.html"
+			],
+			[
+				"bezb",
+				"oglas/bezbedna-trgovina/druga-verzija.htm"
+			],
+			[
+				"presvla",
+				"novogodisnja-presvlaka/druga-verzija.html"
+			],
+			[
+				"novo",
+				"novogodisnja-presvlaka/index.html"
+			],
+			[
+				"bez",
+				"oglas/bezbedna-trgovina/css/bezbedna-trgovina.css"
+			],
+			[
+				"bezbe",
+				"oglas/bezbedna-trgovina/druga-verzija.htm"
+			],
+			[
+				"prio",
+				"prioritetni-oglasi/verzija-2.htm"
+			],
+			[
+				"novogo",
+				"novogodisnja-presvlaka/index.html"
+			],
+			[
+				"priot",
+				"prioritetni-oglasi/Pojacala-1-117-1-grupa.htm"
+			],
+			[
+				"druga",
+				"oglas/bezbedna-trgovina/druga-verzija.htm"
+			],
+			[
+				"no-pho",
+				"no-photo/CD-plejeri-1-486-1-grupa.htm"
+			],
+			[
+				"htt",
+				"httpool/css/httpool.css"
+			],
+			[
+				"pocetna",
+				"pocetna/css/pocetna.css"
+			],
+			[
+				"strasilo",
+				"strasilo/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\wamp\\www\\kp\\kp.sublime-project"
+			],
+			[
+				"da",
+				"C:\\Users\\milos\\Documents\\GitHub\\darcom\\darcom-project.sublime-project"
+			],
+			[
+				"ptp",
+				"/D/wamp/www/ptp/ptp.sublime-project"
+			],
+			[
+				"a",
+				"/D/wamp/www/agroseed/agroseed.sublime-project"
+			],
+			[
+				"s",
+				"/D/wamp/www/newsajtdzija/sajtdzija.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<link type="text/css" rel="stylesheet" href="/css/layout.css" />
-		<title>Tutorial</title>
+		<title>Tutorial 1</title>
 	</head>
 	<body>
 		@include("header")
